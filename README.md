@@ -1,2 +1,2 @@
 # hello-world
-test
+я только учусь :)
